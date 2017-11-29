@@ -1,0 +1,3 @@
+[submodule "src/main/org/acme/code/recepty"]
+	path = src/main/org/acme/code/recepty
+	url = https://github.com/hrebejk/recepty.git
